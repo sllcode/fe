@@ -1,12 +1,12 @@
 {
   "name": "fiteat",
   "version": "1.0.0",
-  "description": "",
+  "description": "fiteat project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "bc0de",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.11.1",
